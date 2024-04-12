@@ -1,7 +1,7 @@
 # TweetAcademy
 Clone de twitter lors de mon parcours à la Web@cademy
 
-POur lancer le projet :
+Pour lancer le projet :
 Installer NPM
 Installer les libraires Axios, Link, Toastify dans votre application react
 Installer Vite.JS
